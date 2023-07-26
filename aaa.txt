@@ -6,4 +6,6 @@ if test = 'string' then
     return false
 end if
 
+test = 'integer'
+
 return true
