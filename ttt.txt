@@ -1,1 +1,10 @@
 aaa
+
+dim testcd as string = nothing
+
+dim aflg as boolean = true
+
+if aflg then
+    testcd = 'aaa'
+endif
+
