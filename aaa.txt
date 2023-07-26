@@ -1,1 +1,9 @@
-testtesttest
+dim test as string = nothing
+
+test = 'string'
+
+if test = 'string' then
+    return false
+end if
+
+return true
